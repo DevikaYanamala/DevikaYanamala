@@ -22,6 +22,21 @@
 
 <hr />
 
+### 💼 Professional Experience
+
+* **Data Analyst (Studentship)** @ *Newcastle University Library, UK* (Jan 2026 – Present)
+  * Conducting exploratory data analysis on smartcard entry, occupancy, and reading resource telemetry.
+  * Developing interactive Power BI dashboards and visual reports to optimize library operations and subscription costs.
+* **Data Analyst – Product Analytics** @ *Rooted Platform (Self Employed)*
+  * Cleaning and validating geographical telemetry data, refining UI/UX overlays, and designing portfolio showcase assets.
+* **Associate Data Scientist** @ *BEPEC Solutions, India* (May 2023 – May 2025)
+  * Led end-to-end machine learning and NLP projects from conceptual design to cloud deployment.
+  * Automated data reporting pipelines and custom client dashboards using cloud platforms.
+* **Data Scientist Intern** @ *BEPEC Solutions, India* (Jan 2023 – May 2023)
+  * Developed proof-of-concept models and conducted exploratory data analysis on large datasets.
+
+<hr />
+
 ### 🚀 What I Build
 
 * 📈 **Product & Business Analytics** — Executive Power BI dashboard with 20+ advanced DAX measures, demonstrating how data-driven segments and pricing strategies recover £150K+ in annual profits. [[Dmart-Retail](https://github.com/DevikaYanamala/End-to-End-Data-analytics-project-Dmart-)]
