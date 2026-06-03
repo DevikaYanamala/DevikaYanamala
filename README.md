@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Devika 👋</h1>
+<h3 align="center">🇬🇧 Actively seeking UK roles</h3>
+<h1 align="center">Hello! 👋 I am Devika Yanamala</h1>
+<p align="center">
+  <strong>Data Analyst & Scientist</strong><br>
+  <em>"I don't just build models. I find the commercial story hiding inside the data."</em>
+</p>
 
 <p align="center">
-  <strong>MSc Data Science & AI @ Newcastle University</strong><br>
-  Building end-to-end data analytics and AI systems to drive business impact.
+  Results-driven Data Professional with 2+ years of experience and an MSc in Data Science and AI. <br>
+  Proven ability to build predictive machine learning models and translate complex datasets into actionable business strategies.
 </p>
 
 <p align="center">
