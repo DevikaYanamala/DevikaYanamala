@@ -32,7 +32,7 @@
 * **Data Analyst (Studentship)** @ *Newcastle University Library, UK* (Jan 2026 – Present)
   * Conducting exploratory data analysis on smartcard entry, occupancy, and reading resource telemetry.
   * Developing interactive Power BI dashboards and visual reports to optimize library operations and subscription costs.
-* **Data Analyst – Product Analytics** @ *Rooted Platform (Self Employed)*
+* **Data Analyst – Product Analytics** @ *Rooted Platform (Independent Project)*
   * Cleaning and validating geographical telemetry data, refining UI/UX overlays, and designing portfolio showcase assets.
 * **Associate Data Scientist** @ *BEPEC Solutions, India* (May 2023 – May 2025)
   * Led end-to-end machine learning and NLP projects from conceptual design to cloud deployment.
